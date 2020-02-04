@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm
+DESCRIPTION=Pretty simple Linux icon theme inspired by material design
+EAPI=7
+HOMEPAGE=https://github.com/daniruiz/flat-remix
+IUSE=+blue +green +red +yellow
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+REQUIRED_USE=|| ( blue green red yellow )
+SLOT=0
+SRC_URI=https://github.com/daniruiz/flat-remix/archive/20191018.tar.gz -> flat-remix-20191018.tar.gz
+_eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=9a09cff4ef3f95d9a7f09efbc0daa928
