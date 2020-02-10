@@ -1,5 +1,5 @@
 app-crypt/gcr 3.34.0-r2: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-editors/atom-bin 1.43.0-r2: A hackable text editor for the 21st Century
+app-editors/atom-bin 1.44.0: A hackable text editor for the 21st Century
 app-misc/icdiff 1.9.5-r2: Colourized diff that supports side-by-side diffing
 app-misc/pdfpc 4.3.4: Presenter console with multi-monitor support for PDF files
 dev-cpp/arrow 0.14.1-r1: Cross-language development platform for in-memory data (C++ interface)
