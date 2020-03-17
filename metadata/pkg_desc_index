@@ -4,7 +4,6 @@ app-misc/icdiff 1.9.5-r2: Colourized diff that supports side-by-side diffing
 app-misc/pdfpc 4.3.4: Presenter console with multi-monitor support for PDF files
 dev-cpp/arrow 0.14.1-r1: Cross-language development platform for in-memory data (C++ interface)
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
-dev-java/openjfx 11.0.6_p2-r1: Java OpenJFX client application platform
 dev-libs/libratbag 0.10-r1: Library to configure gaming mice
 dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language services development
 dev-util/cloc 1.84: Count Lines of Code
