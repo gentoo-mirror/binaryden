@@ -22,7 +22,7 @@ gnome-extra/timezonemap 0.4.4: A GTK+3 timezone map widget
 net-wireless/blueberry 1.3.6: A Bluetooth configuration tool
 sys-apps/piper 0.3-r1: GTK application to configure gaming mice
 sys-process/nvtop 1.0.0_p20191112: NVIDIA GPUs htop like monitoring tool
-x11-libs/xapps 1.6.9: Cross-desktop libraries and common resources
+x11-libs/xapps 1.6.10: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.3.2: A slick-looking LightDM greeter
 x11-themes/flat-remix 20191018-r1: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 4.4.3: Compositing window manager forked from Mutter for use with Cinnamon
