@@ -7,7 +7,6 @@ dev-libs/libratbag 0.10-r1: Library to configure gaming mice
 dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language services development
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.1: Python bindings for x11-libs/xapps
-dev-util/cloc 1.84: Count Lines of Code
 dev-util/nvidia-cuda-toolkit 10.2.89-r2: NVIDIA CUDA Toolkit (compiler and friends)
 gnome-extra/cinnamon 4.4.8-r3: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 4.4.0: Cinnamons's main interface to configure various aspects of the desktop
