@@ -8,7 +8,7 @@ dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language servic
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.1: Python bindings for x11-libs/xapps
 dev-util/nvidia-cuda-toolkit 10.2.89-r2: NVIDIA CUDA Toolkit (compiler and friends)
-gnome-extra/cinnamon 4.4.8-r3: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 4.4.8-r4: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 4.4.0: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 4.4.1-r2: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 4.4.0: Cinnamon's library for the Desktop Menu fd.o specification
