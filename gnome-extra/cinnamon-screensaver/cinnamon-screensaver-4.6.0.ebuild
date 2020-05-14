@@ -4,7 +4,7 @@
 EAPI=6
 PYTHON_COMPAT=( python3_{6,7,8} )
 
-inherit autotools gnome2 multilib python-single-r1
+inherit meson gnome2 multilib python-single-r1
 
 DESCRIPTION="Screensaver for Cinnamon"
 HOMEPAGE="http://cinnamon.linuxmint.com/"
@@ -12,26 +12,22 @@ SRC_URI="https://github.com/linuxmint/cinnamon-screensaver/archive/${PV}.tar.gz 
 
 LICENSE="GPL-2+"
 SLOT="0"
-IUSE="debug doc pam systemd xinerama"
+IUSE="debug pam systemd xinerama"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 KEYWORDS="~amd64 ~x86"
 
 COMMON_DEPEND="
 	>=dev-libs/glib-2.37.3:2[dbus]
-	>=x11-libs/gtk+-3.1.4:3[introspection]
-	>=gnome-extra/cinnamon-desktop-2.6.3:0=[systemd=]
+	>=x11-libs/gtk+-3.22:3[introspection]
+	>=gnome-extra/cinnamon-desktop-3.5:0=[systemd=]
 	>=gnome-base/gsettings-desktop-schemas-0.1.7
 	>=gnome-base/libgnomekbd-3.6
 	>=dev-libs/dbus-glib-0.78
 
 	sys-apps/dbus
-	x11-libs/libxklavier
 	x11-libs/libX11
 	x11-libs/libXext
 	x11-libs/libXrandr
-	x11-libs/libXScrnSaver
-	x11-libs/libXxf86misc
-	x11-libs/libXxf86vm
 	x11-themes/adwaita-icon-theme
 
 	!systemd? ( sys-auth/elogind )
@@ -56,10 +52,6 @@ DEPEND="${COMMON_DEPEND}
 	sys-devel/gettext
 	virtual/pkgconfig
 	x11-base/xorg-proto
-	doc? (
-		app-text/xmlto
-		app-text/docbook-xml-dtd:4.1.2
-		app-text/docbook-xml-dtd:4.4 )
 "
 
 pkg_setup() {
@@ -67,14 +59,19 @@ pkg_setup() {
 }
 
 src_prepare() {
-	eautoreconf
 	gnome2_src_prepare
 }
 
 src_configure() {
-	gnome2_src_configure \
-		$(usex debug --enable-debug ' ') \
-		$(use_enable xinerama)
+	local emesonargs=(
+		$(meson_use debug)
+		$(meson_use xinerama)
+	)
+	meson_src_configure
+}
+
+src_install() {
+	meson_src_install
 }
 
 pkg_postinst() {
