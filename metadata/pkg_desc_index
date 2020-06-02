@@ -9,22 +9,21 @@ dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language servic
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.1: Python bindings for x11-libs/xapps
 dev-util/nvidia-cuda-toolkit 10.2.89-r2: NVIDIA CUDA Toolkit (compiler and friends)
-gnome-extra/cinnamon 4.4.8-r4 4.6.2: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/cinnamon-control-center 4.4.0-r1 4.6.0: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 4.4.1-r2 4.6.0: A collection of libraries and utilites used by Cinnamon
-gnome-extra/cinnamon-menus 4.4.0 4.6.0: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 4.4.1-r4 4.6.0: Screensaver for Cinnamon
-gnome-extra/cinnamon-session 4.4.1 4.6.1: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 4.4.0 4.6.1: Cinnamon's settings daemon
-gnome-extra/cinnamon-translations 4.4.1 4.6.0: Translation data for Cinnamon
-gnome-extra/cjs 4.4.0 4.6.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 4.4.2 4.6.2: A file manager for Cinnamon, forked from Nautilus
-gnome-extra/timezonemap 0.4.4: A GTK+3 timezone map widget
+gnome-extra/cinnamon 4.6.2: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-control-center 4.6.0: Cinnamons's main interface to configure various aspects of the desktop
+gnome-extra/cinnamon-desktop 4.6.0: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-menus 4.6.0: Cinnamon's library for the Desktop Menu fd.o specification
+gnome-extra/cinnamon-screensaver 4.6.0: Screensaver for Cinnamon
+gnome-extra/cinnamon-session 4.6.1: Cinnamon session manager
+gnome-extra/cinnamon-settings-daemon 4.6.1: Cinnamon's settings daemon
+gnome-extra/cinnamon-translations 4.6.0: Translation data for Cinnamon
+gnome-extra/cjs 4.6.0: Linux Mint's fork of gjs for Cinnamon
+gnome-extra/nemo 4.6.2: A file manager for Cinnamon, forked from Nautilus
 net-wireless/blueberry 1.3.8: A Bluetooth configuration tool
 sys-apps/piper 0.3-r1: GTK application to configure gaming mice
 sys-process/nvtop 1.0.0_p20191112: NVIDIA GPUs htop like monitoring tool
-x11-libs/xapps 1.6.10 1.8.6: Cross-desktop libraries and common resources
+x11-libs/xapps 1.8.6: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.4.0: A slick-looking LightDM greeter
 x11-terms/guake 3.7.0-r1: Drop-down terminal for GNOME
 x11-themes/flat-remix 20191018-r1: Pretty simple Linux icon theme inspired by material design
-x11-wm/muffin 4.4.3-r2 4.6.1: Compositing window manager forked from Mutter for use with Cinnamon
+x11-wm/muffin 4.6.1: Compositing window manager forked from Mutter for use with Cinnamon
