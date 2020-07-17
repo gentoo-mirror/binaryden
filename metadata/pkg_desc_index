@@ -1,5 +1,5 @@
 app-crypt/gcr 3.34.0-r2: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-editors/atom-bin 1.48.0: A hackable text editor for the 21st Century
+app-editors/atom-bin 1.49.0: A hackable text editor for the 21st Century
 app-misc/icdiff 1.9.5-r2: Colourized diff that supports side-by-side diffing
 dev-cpp/arrow 0.14.1-r1: Cross-language development platform for in-memory data (C++ interface)
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
@@ -10,7 +10,7 @@ dev-python/xapp 2.0.1: Python bindings for x11-libs/xapps
 dev-util/nvidia-cuda-toolkit 10.2.89-r2: NVIDIA CUDA Toolkit (compiler and friends)
 gnome-extra/cinnamon 4.6.6: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 4.6.1: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 4.6.2: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-desktop 4.6.3: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 4.6.1: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 4.6.0: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 4.6.1: Cinnamon session manager
