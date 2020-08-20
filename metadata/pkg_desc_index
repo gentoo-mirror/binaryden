@@ -5,6 +5,7 @@ dev-cpp/arrow 0.14.1-r1: Cross-language development platform for in-memory data 
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-libs/libratbag 0.10-r1 0.14: Library to configure gaming mice
 dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language services development
+dev-python/pulsectl 20200624: Python high-level interface and ctypes-based bindings for PulseAudio
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.1: Python bindings for x11-libs/xapps
 dev-util/nvidia-cuda-toolkit 10.2.89-r2: NVIDIA CUDA Toolkit (compiler and friends)
