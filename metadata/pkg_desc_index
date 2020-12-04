@@ -20,7 +20,7 @@ gnome-extra/nemo 4.6.5 4.8.0: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.2: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.0: A Bluetooth configuration tool
 sys-apps/piper 0.5.1: GTK application to configure gaming mice
-sys-process/nvtop 1.0.0_p20191112: NVIDIA GPUs htop like monitoring tool
+sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
 x11-libs/xapps 1.8.10 2.0.0: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.0: A slick-looking LightDM greeter
 x11-themes/flat-remix 20200710: Pretty simple Linux icon theme inspired by material design
