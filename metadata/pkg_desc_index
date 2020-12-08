@@ -7,22 +7,22 @@ dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language servic
 dev-python/pulsectl 20200624: Python high-level interface and ctypes-based bindings for PulseAudio
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.1 2.0.2: Python bindings for x11-libs/xapps
-gnome-extra/cinnamon 4.6.7 4.8.0: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/cinnamon-control-center 4.6.2 4.8.0: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 4.6.4 4.8.0: A collection of libraries and utilites used by Cinnamon
-gnome-extra/cinnamon-menus 4.6.1 4.8.1: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 4.6.0 4.8.0: Screensaver for Cinnamon
+gnome-extra/cinnamon 4.6.7 4.8.2: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-control-center 4.6.2 4.8.1: Cinnamons's main interface to configure various aspects of the desktop
+gnome-extra/cinnamon-desktop 4.6.4 4.8.1: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-menus 4.6.1 4.8.2: Cinnamon's library for the Desktop Menu fd.o specification
+gnome-extra/cinnamon-screensaver 4.6.0 4.8.1: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 4.6.2 4.8.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 4.6.4 4.8.2: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 4.6.2 4.8.0: Translation data for Cinnamon
-gnome-extra/cjs 4.6.0 4.8.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 4.6.5 4.8.0: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/cjs 4.6.0 4.8.1: Linux Mint's fork of gjs for Cinnamon
+gnome-extra/nemo 4.6.5 4.8.2: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.2: Python library to control the Elgato Stream Deck
 net-im/discord-bin 0.0.13: All-in-one voice and text chat for gamers
 net-wireless/blueberry 1.4.0: A Bluetooth configuration tool
 sys-apps/piper 0.5.1: GTK application to configure gaming mice
 sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
-x11-libs/xapps 1.8.10 2.0.0: Cross-desktop libraries and common resources
+x11-libs/xapps 1.8.10 2.0.2: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.0: A slick-looking LightDM greeter
 x11-themes/flat-remix 20200710: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 4.6.3 4.8.0: Compositing window manager forked from Mutter for use with Cinnamon
