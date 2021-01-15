@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-PYTHON_COMPAT=( python3_{7,8} )
+PYTHON_COMPAT=( python3_{7,8,9} )
 
 inherit meson gnome2-utils python-single-r1 virtualx xdg
 
@@ -40,7 +40,6 @@ RDEPEND="${COMMON_DEPEND}
 	x11-themes/adwaita-icon-theme
 	nls? ( >=gnome-extra/cinnamon-translations-4.8 )
 	$(python_gen_cond_dep '
-		dev-python/polib[${PYTHON_USEDEP}]
 		dev-python/pygobject:3[${PYTHON_USEDEP}]
 	')
 "
