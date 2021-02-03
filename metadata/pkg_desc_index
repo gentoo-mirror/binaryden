@@ -17,11 +17,11 @@ gnome-extra/cinnamon-settings-daemon 4.8.5: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 4.8.3: Translation data for Cinnamon
 gnome-extra/cjs 4.8.2: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.4-r1: A file manager for Cinnamon, forked from Nautilus
-media-libs/elgato-streamdeck 0.8.2: Python library to control the Elgato Stream Deck
+media-libs/elgato-streamdeck 0.8.3: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.2: A Bluetooth configuration tool
 sys-apps/piper 0.5.1: GTK application to configure gaming mice
 sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
 x11-libs/xapps 1.8.10 2.0.6: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.2: A slick-looking LightDM greeter
-x11-themes/flat-remix 20200710: Pretty simple Linux icon theme inspired by material design
+x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 4.8.1: Compositing window manager forked from Mutter for use with Cinnamon
