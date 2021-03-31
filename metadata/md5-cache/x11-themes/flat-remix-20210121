@@ -2,6 +2,7 @@ DEFINED_PHASES=install postinst postrm
 DESCRIPTION=Pretty simple Linux icon theme inspired by material design
 EAPI=7
 HOMEPAGE=https://github.com/daniruiz/flat-remix
+INHERIT=xdg-utils
 IUSE=+blue +green +red +yellow
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
