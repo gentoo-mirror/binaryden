@@ -18,7 +18,6 @@ gnome-extra/cinnamon-translations 4.8.3: Translation data for Cinnamon
 gnome-extra/cjs 4.8.2: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.5: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.3: Python library to control the Elgato Stream Deck
-net-im/discord-bin 0.0.15: All-in-one voice and text chat for gamers
 net-wireless/blueberry 1.4.2: A Bluetooth configuration tool
 sys-apps/piper 0.5.1: GTK application to configure gaming mice
 sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
