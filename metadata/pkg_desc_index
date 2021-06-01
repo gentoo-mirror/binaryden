@@ -4,7 +4,7 @@ dev-cpp/arrow 0.14.1-r1: Cross-language development platform for in-memory data 
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-libs/libratbag 0.14: Library to configure gaming mice
 dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language services development
-dev-python/pulsectl 20200624: Python high-level interface and ctypes-based bindings for PulseAudio
+dev-python/pulsectl 21.5.18: Python high-level interface and ctypes-based bindings for PulseAudio
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.0.2: Python bindings for x11-libs/xapps
 gnome-extra/cinnamon 4.8.6: A fork of GNOME Shell with layout similar to GNOME 2
