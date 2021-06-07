@@ -9,4 +9,4 @@ RDEPEND=!app-editors/atom || ( dev-lang/python:3.9 dev-lang/python:3.8 ) dev-vcs
 SLOT=0
 SRC_URI=https://github.com/atom/atom/releases/download/v1.57.0/atom-amd64.deb -> atom-bin-1.57.0.deb
 _eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	python-utils-r1	6e84b7d3d8d0bb1ee12774f4a66909e2	python-any-r1	17241a11501065ff3651350040875aa9	unpacker	517f16af48ee3ab88180dd58b5143213	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=c1c950db32bc4f0ddf4c94901a672b2d
+_md5_=d572d65442f2864d2c58a1cbd9a3337f
