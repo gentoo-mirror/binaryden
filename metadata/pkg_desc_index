@@ -22,4 +22,4 @@ sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
 x11-libs/xapps 1.8.10 2.0.7 2.2.1: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.3: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
-x11-wm/muffin 4.8.1 5.0.0: Compositing window manager forked from Mutter for use with Cinnamon
+x11-wm/muffin 4.8.1 5.0.1: Compositing window manager forked from Mutter for use with Cinnamon
