@@ -10,9 +10,9 @@ gnome-extra/cinnamon 4.8.6 5.0.2: A fork of GNOME Shell with layout similar to G
 gnome-extra/cinnamon-control-center 4.8.2 5.0.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 4.8.1 5.0.0: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 4.8.3 5.0.0: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 4.8.1 5.0.4: Screensaver for Cinnamon
+gnome-extra/cinnamon-screensaver 4.8.1 5.0.5: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 4.8.0 5.0.0: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 4.8.5 5.0.1: Cinnamon's settings daemon
+gnome-extra/cinnamon-settings-daemon 4.8.5 5.0.2: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 4.8.3 5.0.1: Translation data for Cinnamon
 gnome-extra/cjs 4.8.2 5.0.0: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.5 5.0.1: A file manager for Cinnamon, forked from Nautilus
