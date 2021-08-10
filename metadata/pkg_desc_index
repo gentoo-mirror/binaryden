@@ -10,15 +10,15 @@ gnome-extra/cinnamon-control-center 5.0.2: Cinnamons's main interface to configu
 gnome-extra/cinnamon-desktop 5.0.0-r1: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 4.8.3 5.0.0-r1: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 5.0.6: Screensaver for Cinnamon
-gnome-extra/cinnamon-session 5.0.0-r1: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 5.0.3: Cinnamon's settings daemon
+gnome-extra/cinnamon-session 5.0.1: Cinnamon session manager
+gnome-extra/cinnamon-settings-daemon 5.0.4: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 5.0.2-r1: Translation data for Cinnamon
 gnome-extra/cjs 5.0.0-r1: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.5 5.0.3: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.3: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.4: A Bluetooth configuration tool
 sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
-x11-libs/xapps 2.0.7 2.2.2: Cross-desktop libraries and common resources
+x11-libs/xapps 2.0.7 2.2.3: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.4: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 5.0.1-r1: Compositing window manager forked from Mutter for use with Cinnamon
