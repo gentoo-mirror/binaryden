@@ -12,6 +12,7 @@ gnome-extra/cinnamon-menus 4.8.3 5.0.0-r1: Cinnamon's library for the Desktop Me
 gnome-extra/cinnamon-screensaver 5.0.6: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 5.0.0-r1: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 5.0.3: Cinnamon's settings daemon
+gnome-extra/cinnamon-translations 5.0.2-r1: Translation data for Cinnamon
 gnome-extra/cjs 5.0.0-r1: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.5 5.0.3: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.3: Python library to control the Elgato Stream Deck
