@@ -17,7 +17,7 @@ gnome-extra/cjs 5.0.1: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 4.8.5 5.0.4: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.8.3: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.4: A Bluetooth configuration tool
-sys-process/nvtop 1.1.0: NVIDIA GPUs htop like monitoring tool
+sys-process/nvtop 1.2.2: NVIDIA GPUs htop like monitoring tool
 x11-libs/xapps 2.0.7 2.2.4: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.4: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
