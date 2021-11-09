@@ -5,7 +5,7 @@ dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line
 dev-libs/thrift 0.13.0-r2: Software framework for scalable cross-language services development
 dev-python/python-pam 1.8.4: Python module for simple PAM authentications
 dev-python/xapp 2.2.1-r1: Python bindings for x11-libs/xapps
-gnome-extra/cinnamon 5.0.6: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 5.0.7: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 5.0.2: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 5.0.0-r1: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 4.8.3 5.0.0-r1: Cinnamon's library for the Desktop Menu fd.o specification
