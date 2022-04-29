@@ -2,17 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-cpp/arrow:brotli - Enable Brotli compression support
-dev-cpp/arrow:ccache - Use fast compiler cache
-dev-cpp/arrow:deprecated - Build Arrow with deprecated API included
-dev-cpp/arrow:glog - Enable pluggable logging support via dev-cpp/glog
-dev-cpp/arrow:lz4 - Enable lz4 compression support
-dev-cpp/arrow:openssl - Build Apache Parquet with encrytion support
-dev-cpp/arrow:parquet - Build Apache Parquet libraries
-dev-cpp/arrow:snappy - Enable Snappy compression support
-dev-cpp/arrow:zstd - Enable zstd compression support
-dev-libs/thrift:libevent - Enable libevent support (C++ bindings only)
-dev-libs/thrift:openssl - Enable OpenSSL support (C++ bindings only)
 x11-themes/flat-remix:blue - Install blue theme variants
 x11-themes/flat-remix:green - Install green theme variants
 x11-themes/flat-remix:red - Install red theme variants
