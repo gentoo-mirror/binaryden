@@ -17,6 +17,6 @@ media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream 
 net-wireless/blueberry 1.4.7: A Bluetooth configuration tool
 sys-process/nvtop 1.2.2: NVIDIA GPUs htop like monitoring tool
 x11-libs/xapp 2.2.4 2.2.8: Cross-desktop libraries and common resources
-x11-misc/slick-greeter 1.5.6: A slick-looking LightDM greeter
+x11-misc/slick-greeter 1.5.6-r1: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 5.0.2 5.2.1: Compositing window manager forked from Mutter for use with Cinnamon
