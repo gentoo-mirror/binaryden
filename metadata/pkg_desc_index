@@ -10,7 +10,7 @@ gnome-extra/cinnamon-session 5.2.0 5.4.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 5.2.0 5.4.2: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 5.2.2 5.4.1: Translation data for Cinnamon
 gnome-extra/cjs 5.2.0-r1 5.4.1: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 5.2.4 5.4.1: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 5.2.4 5.4.2: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.7: A Bluetooth configuration tool
 sys-apps/hexyl 0.10.0: A command-line hex viewer
