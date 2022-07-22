@@ -14,7 +14,7 @@ gnome-extra/nemo 5.2.4 5.4.2: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.7: A Bluetooth configuration tool
 sys-apps/hexyl 0.10.0: A command-line hex viewer
-x11-libs/xapp 2.2.8 2.2.13: Cross-desktop libraries and common resources
+x11-libs/xapp 2.2.8 2.2.14: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.9-r1: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 5.2.1 5.4.3: Compositing window manager forked from Mutter for use with Cinnamon
