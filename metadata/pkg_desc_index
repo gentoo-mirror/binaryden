@@ -1,18 +1,18 @@
 app-editors/atom-bin 1.60.0: A hackable text editor for the 21st Century
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-python/python3-xapp 2.2.2: Python bindings for x11-libs/xapp
-gnome-extra/cinnamon 5.2.7-r1 5.4.5: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 5.2.7-r1 5.4.7: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 5.2.1-r1 5.4.4: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 5.2.1 5.4.2: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 5.2.0 5.4.0: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 5.2.1 5.4.1: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 5.2.0 5.4.0: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 5.2.0 5.4.2: Cinnamon's settings daemon
-gnome-extra/cinnamon-translations 5.2.2 5.4.1: Translation data for Cinnamon
+gnome-extra/cinnamon-settings-daemon 5.2.0 5.4.3: Cinnamon's settings daemon
+gnome-extra/cinnamon-translations 5.2.2 5.4.2: Translation data for Cinnamon
 gnome-extra/cjs 5.2.0-r1 5.4.1: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 5.2.4 5.4.2: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 5.2.4-r1 5.4.2-r1: A file manager for Cinnamon, forked from Nautilus
 media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream Deck
-net-wireless/blueberry 1.4.7: A Bluetooth configuration tool
+net-wireless/blueberry 1.4.8: A Bluetooth configuration tool
 sys-apps/hexyl 0.10.0: A command-line hex viewer
 x11-libs/xapp 2.2.8 2.2.14: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.9-r1: A slick-looking LightDM greeter
