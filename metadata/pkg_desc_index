@@ -9,7 +9,7 @@ gnome-extra/cinnamon-desktop 5.2.1 5.4.2: A collection of libraries and utilites
 gnome-extra/cinnamon-menus 5.2.0 5.4.0: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 5.2.1 5.4.2: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 5.2.0 5.4.0: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 5.2.0 5.4.4: Cinnamon's settings daemon
+gnome-extra/cinnamon-settings-daemon 5.2.0 5.4.5: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 5.2.2 5.4.2: Translation data for Cinnamon
 gnome-extra/cjs 5.2.0-r1 5.4.1: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 5.2.4-r1 5.4.2-r1: A file manager for Cinnamon, forked from Nautilus
