@@ -1,6 +1,7 @@
 app-editors/atom-bin 1.60.0: A hackable text editor for the 21st Century
 app-misc/vit 2.2.0: VIT is a lightweight, fast, curses-based front end to Taskwarrior
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
+dev-lang/julia-bin 1.6.7 1.8.0: High-performance programming language for technical computing
 dev-python/python3-xapp 2.2.2: Python bindings for x11-libs/xapp
 dev-python/tasklib 2.4.3: A Python library for interacting with taskwarrior databases
 gnome-extra/cinnamon 5.2.7-r1 5.4.10: A fork of GNOME Shell with layout similar to GNOME 2
