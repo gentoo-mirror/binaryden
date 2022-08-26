@@ -1,13 +1,13 @@
 app-arch/file-roller
 app-editors/gummi
 app-editors/gvim
+app-misc/bulky
 app-text/evince
 dev-util/geany
 dev-util/meld
 gnome-extra/cinnamon
 media-gfx/gnome-screenshot
 media-gfx/gthumb
-media-sound/pavucontrol
 sys-block/gparted
 x11-misc/redshift
 x11-misc/slick-greeter
