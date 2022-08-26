@@ -1,3 +1,4 @@
+app-misc/bulky 2.4: Bulk Renamer
 app-misc/vit 2.2.0: VIT is a lightweight, fast, curses-based front end to Taskwarrior
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-lang/julia-bin 1.6.7 1.8.0: High-performance programming language for technical computing
