@@ -1,11 +1,11 @@
-app-misc/bulky 2.4: Bulk Renamer
+app-misc/bulky 2.5: Bulk Renamer
 app-misc/vit 2.2.0: VIT is a lightweight, fast, curses-based front end to Taskwarrior
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-lang/julia-bin 1.6.7 1.8.0: High-performance programming language for technical computing
 dev-python/python3-xapp 2.2.2: Python bindings for x11-libs/xapp
 dev-python/tasklib 2.4.3: A Python library for interacting with taskwarrior databases
-gnome-extra/cinnamon 5.2.7-r1 5.4.11: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/cinnamon-control-center 5.2.1-r1 5.4.6: Cinnamons's main interface to configure various aspects of the desktop
+gnome-extra/cinnamon 5.2.7-r1 5.4.12: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-control-center 5.2.1-r1 5.4.7: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 5.2.1 5.4.2: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 5.2.0 5.4.0: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 5.2.1 5.4.4: Screensaver for Cinnamon
@@ -17,7 +17,7 @@ gnome-extra/nemo 5.2.4-r1 5.4.3: A file manager for Cinnamon, forked from Nautil
 media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.8: A Bluetooth configuration tool
 sys-apps/hexyl 0.10.0: A command-line hex viewer
-x11-libs/xapp 2.2.8 2.2.14: Cross-desktop libraries and common resources
+x11-libs/xapp 2.2.8 2.2.15: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.9-r1: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
-x11-wm/muffin 5.2.1 5.4.6: Compositing window manager forked from Mutter for use with Cinnamon
+x11-wm/muffin 5.2.1 5.4.7: Compositing window manager forked from Mutter for use with Cinnamon
