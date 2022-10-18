@@ -19,5 +19,6 @@ net-wireless/blueberry 1.4.8: A Bluetooth configuration tool
 sys-apps/hexyl 0.10.0: A command-line hex viewer
 x11-libs/xapp 2.2.8 2.2.15: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.5.9-r1: A slick-looking LightDM greeter
+x11-terms/guake 3.9.0: Drop-down terminal for GNOME
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 5.2.1 5.4.7: Compositing window manager forked from Mutter for use with Cinnamon
