@@ -4,13 +4,13 @@ DESCRIPTION=Bulk Renamer
 EAPI=8
 HOMEPAGE=https://github.com/linuxmint/bulky
 INHERIT=python-single-r1 gnome2-utils plocale
-IUSE=python_single_target_python3_8 python_single_target_python3_9 python_single_target_python3_10
+IUSE=python_single_target_python3_8 python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=python_single_target_python3_8? ( >=dev-lang/python-3.8.13:3.8 ) python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_8? ( dev-python/pygobject[python_targets_python3_8(-)] dev-python/python-magic[python_targets_python3_8(-)] dev-python/setproctitle[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/pygobject[python_targets_python3_9(-)] dev-python/python-magic[python_targets_python3_9(-)] dev-python/setproctitle[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/pygobject[python_targets_python3_10(-)] dev-python/python-magic[python_targets_python3_10(-)] dev-python/setproctitle[python_targets_python3_10(-)] )
-REQUIRED_USE=^^ ( python_single_target_python3_8 python_single_target_python3_9 python_single_target_python3_10 )
+RDEPEND=python_single_target_python3_8? ( >=dev-lang/python-3.8.13:3.8 ) python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) python_single_target_python3_8? ( dev-python/pygobject[python_targets_python3_8(-)] dev-python/python-magic[python_targets_python3_8(-)] dev-python/setproctitle[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/pygobject[python_targets_python3_9(-)] dev-python/python-magic[python_targets_python3_9(-)] dev-python/setproctitle[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/pygobject[python_targets_python3_10(-)] dev-python/python-magic[python_targets_python3_10(-)] dev-python/setproctitle[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/pygobject[python_targets_python3_11(-)] dev-python/python-magic[python_targets_python3_11(-)] dev-python/setproctitle[python_targets_python3_11(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_8 python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11 )
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/linuxmint/bulky/archive/refs/tags/2.5.tar.gz -> bulky-2.5.gh.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8	xdg-utils	ac0e315a3688929e34ac75b139e7349a	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	plocale	7ce00136a77130df46fbbd5966f98a61
-_md5_=6dd6a1382507695bf87d371989434834
+_md5_=2cb2e4c3278a8e6f075c37c559b17094
