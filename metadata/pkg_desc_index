@@ -1,10 +1,10 @@
 app-misc/bulky 2.7: Bulk Renamer
 app-misc/vit 2.2.0: VIT is a lightweight, fast, curses-based front end to Taskwarrior
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
-dev-lang/julia-bin 1.8.5 1.9.0_beta2: High-performance programming language for technical computing
+dev-lang/julia-bin 1.8.5 1.9.0_beta3: High-performance programming language for technical computing
 dev-python/python3-xapp 2.2.2 2.4.0: Python bindings for x11-libs/xapp
 dev-python/tasklib 2.5.1: A Python library for interacting with taskwarrior databases
-gnome-extra/cinnamon 5.4.12 5.6.6: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 5.4.12 5.6.7: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 5.4.7 5.6.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 5.4.2 5.6.1: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 5.4.0 5.6.0: Cinnamon's library for the Desktop Menu fd.o specification
@@ -13,7 +13,7 @@ gnome-extra/cinnamon-session 5.4.0 5.6.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 5.4.5 5.6.1: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 5.4.2 5.6.1: Translation data for Cinnamon
 gnome-extra/cjs 5.4.1 5.6.1: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 5.4.3 5.6.2: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 5.4.3 5.6.3: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 5.6.1: Nemo file-roller integration
 media-libs/elgato-streamdeck 0.9.0: Python library to control the Elgato Stream Deck
 net-wireless/blueberry 1.4.8: A Bluetooth configuration tool
