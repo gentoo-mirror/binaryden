@@ -6,7 +6,7 @@ dev-python/python3-xapp 2.2.2 2.4.0: Python bindings for x11-libs/xapp
 dev-python/tasklib 2.5.1: A Python library for interacting with taskwarrior databases
 gnome-extra/cinnamon 5.4.12 5.6.8: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 5.4.7 5.6.1: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 5.4.2 5.6.1: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-desktop 5.4.2 5.6.2: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 5.4.0 5.6.0: Cinnamon's library for the Desktop Menu fd.o specification
 gnome-extra/cinnamon-screensaver 5.4.4 5.6.3: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 5.4.0 5.6.0: Cinnamon session manager
