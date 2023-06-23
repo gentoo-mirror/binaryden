@@ -1,21 +1,22 @@
-app-misc/bulky 2.7: Bulk Renamer
+app-misc/bulky 2.7 2.9: Bulk Renamer
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-lang/julia-bin 1.8.5 1.9.1: High-performance programming language for technical computing
-dev-python/python3-xapp 2.4.0: Python bindings for x11-libs/xapp
-gnome-extra/cinnamon 5.6.8: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/cinnamon-control-center 5.6.1: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 5.6.2: A collection of libraries and utilites used by Cinnamon
-gnome-extra/cinnamon-menus 5.6.0: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 5.6.3: Screensaver for Cinnamon
-gnome-extra/cinnamon-session 5.6.0: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 5.6.2: Cinnamon's settings daemon
-gnome-extra/cinnamon-translations 5.6.1: Translation data for Cinnamon
-gnome-extra/cjs 5.6.1: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 5.6.5: A file manager for Cinnamon, forked from Nautilus
-gnome-extra/nemo-fileroller 5.6.1: Nemo file-roller integration
+dev-python/python3-xapp 2.4.0 2.4.1: Python bindings for x11-libs/xapp
+gnome-extra/cinnamon 5.6.8 5.8.2: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-control-center 5.6.1 5.8.1: Cinnamons's main interface to configure various aspects of the desktop
+gnome-extra/cinnamon-desktop 5.6.2 5.8.0: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-menus 5.6.0 5.8.0: Cinnamon's library for the Desktop Menu fd.o specification
+gnome-extra/cinnamon-screensaver 5.6.3 5.8.0: Screensaver for Cinnamon
+gnome-extra/cinnamon-session 5.6.0 5.8.1: Cinnamon session manager
+gnome-extra/cinnamon-settings-daemon 5.6.2 5.8.1: Cinnamon's settings daemon
+gnome-extra/cinnamon-translations 5.6.1 5.8.1: Translation data for Cinnamon
+gnome-extra/cjs 5.6.1 5.8.0: Linux Mint's fork of gjs for Cinnamon
+gnome-extra/nemo 5.6.5 5.8.2: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo-fileroller 5.6.1 5.8.0: Nemo file-roller integration
 media-libs/elgato-streamdeck 0.9.3: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.12.0: A command-line hex viewer
-x11-libs/xapp 2.4.2: Cross-desktop libraries and common resources
-x11-misc/slick-greeter 1.6.1: A slick-looking LightDM greeter
+sys-apps/xdg-desktop-portal-xapp 1.0.1: Xapp-based backend implementation for xdg-desktop-portal
+x11-libs/xapp 2.4.2 2.6.1: Cross-desktop libraries and common resources
+x11-misc/slick-greeter 1.6.1 1.8.1: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
-x11-wm/muffin 5.6.4: Compositing window manager forked from Mutter for use with Cinnamon
+x11-wm/muffin 5.6.4 5.8.0: Compositing window manager forked from Mutter for use with Cinnamon
