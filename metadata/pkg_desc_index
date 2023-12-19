@@ -1,6 +1,6 @@
 app-misc/bulky 2.10: Bulk Renamer
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
-dev-lang/julia-bin 1.10.0_rc2: High-performance programming language for technical computing
+dev-lang/julia-bin 1.10.0_rc3: High-performance programming language for technical computing
 dev-python/python3-xapp 2.4.1: Python bindings for x11-libs/xapp
 dev-python/wxpython 4.2.0-r1: A blending of the wxWindows C++ class library with Python
 gnome-extra/cinnamon 5.8.4: A fork of GNOME Shell with layout similar to GNOME 2
