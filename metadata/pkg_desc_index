@@ -2,16 +2,16 @@ app-misc/bulky 2.10 3.1: Bulk Renamer
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-lang/julia-bin 1.10.0: High-performance programming language for technical computing
 dev-python/python3-xapp 2.4.1: Python bindings for x11-libs/xapp
-gnome-extra/cinnamon 5.8.4 6.0.2: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 5.8.4 6.0.3: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 5.8.2 6.0.0: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 5.8.0 6.0.0: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 5.8.0 6.0.0: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 5.8.1 6.0.0: Screensaver for Cinnamon
+gnome-extra/cinnamon-screensaver 5.8.1 6.0.1: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 5.8.1 6.0.1: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 5.8.1 6.0.0: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 5.8.2 6.0.1: Translation data for Cinnamon
 gnome-extra/cjs 5.8.0 6.0.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 5.8.5 6.0.0: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 5.8.5 6.0.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 5.8.0 6.0.1: Nemo file-roller integration
 media-libs/elgato-streamdeck 0.9.3: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.14.0: A command-line hex viewer
@@ -19,4 +19,4 @@ sys-apps/xdg-desktop-portal-xapp 1.0.3 1.0.4: Xapp-based backend implementation 
 x11-libs/xapp 2.6.1 2.8.1: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 1.8.2 2.0.2: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
-x11-wm/muffin 5.8.1 6.0.0-r1: Compositing window manager forked from Mutter for use with Cinnamon
+x11-wm/muffin 5.8.1 6.0.1: Compositing window manager forked from Mutter for use with Cinnamon
