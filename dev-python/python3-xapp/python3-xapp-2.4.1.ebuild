@@ -3,7 +3,7 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{9..11} )
+PYTHON_COMPAT=( python3_{10..12} )
 
 inherit meson python-r1
 
@@ -14,7 +14,6 @@ SRC_URI="https://github.com/linuxmint/python3-xapp/archive/${PV}.tar.gz -> ${P}.
 LICENSE="LGPL-2+"
 SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~ppc64 ~riscv ~x86"
-IUSE=""
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
 DEPEND="
