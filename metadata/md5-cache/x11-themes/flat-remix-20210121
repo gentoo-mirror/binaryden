@@ -10,4 +10,4 @@ REQUIRED_USE=|| ( blue green red yellow )
 SLOT=0
 SRC_URI=https://github.com/daniruiz/flat-remix/archive/20210121.tar.gz -> flat-remix-20210121.tar.gz
 _eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3
-_md5_=9e2b0b805c141134f886ef4315c76d1c
+_md5_=21a765947b4f1a49860437bf3613bf3f
