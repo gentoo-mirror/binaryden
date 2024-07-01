@@ -2,7 +2,7 @@ app-misc/bulky 3.3: Bulk Renamer
 dev-cpp/clipp 1.2.4_pre20190430: Easy to use, powerful & expressive command line argument parsing for modern C++
 dev-lang/julia-bin 1.10.4 1.11.0_rc1: High-performance programming language for technical computing
 dev-python/python3-xapp 2.4.2: Python bindings for x11-libs/xapp
-gnome-extra/cinnamon 6.0.4 6.2.2: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 6.0.4 6.2.3: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 6.0.1 6.2.0: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 6.0.0 6.2.0: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 6.0.0 6.2.0: Cinnamon's library for the Desktop Menu fd.o specification
@@ -11,7 +11,7 @@ gnome-extra/cinnamon-session 6.0.4 6.2.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 6.0.0 6.2.0: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 6.0.2 6.2.1: Translation data for Cinnamon
 gnome-extra/cjs 6.0.0 6.2.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 6.0.2 6.2.1: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 6.0.2 6.2.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 6.0.1 6.2.0: Nemo file-roller integration
 media-libs/elgato-streamdeck 0.9.3: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.14.0: A command-line hex viewer
