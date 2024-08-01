@@ -1,0 +1,15 @@
+BDEPEND=dev-util/intltool virtual/pkgconfig gtk-doc? ( dev-util/gtk-doc ) >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
+DEFINED_PHASES=compile configure install postinst postrm prepare test
+DEPEND=dev-libs/glib:2 dev-libs/libpeas[gtk] gnome-extra/cinnamon-desktop:= x11-libs/gdk-pixbuf:2 x11-libs/gtk+:3[X] x11-libs/xapp exif? ( media-libs/libexif ) jpeg? ( media-libs/libjpeg-turbo:= ) lcms? ( media-libs/lcms:2 ) svg? ( gnome-base/librsvg:2 ) xmp? ( media-libs/exempi:2= )
+DESCRIPTION=A generic image viewer
+EAPI=8
+HOMEPAGE=https://github.com/linuxmint/xviewer
+INHERIT=meson gnome2-utils strip-linguas
+IUSE=gtk-doc exif jpeg lcms svg xmp
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=dev-libs/glib:2 dev-libs/libpeas[gtk] gnome-extra/cinnamon-desktop:= x11-libs/gdk-pixbuf:2 x11-libs/gtk+:3[X] x11-libs/xapp exif? ( media-libs/libexif ) jpeg? ( media-libs/libjpeg-turbo:= ) lcms? ( media-libs/lcms:2 ) svg? ( gnome-base/librsvg:2 ) xmp? ( media-libs/exempi:2= )
+SLOT=0
+SRC_URI=https://github.com/linuxmint/xviewer/archive/3.4.6.tar.gz -> xviewer-3.4.6.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8b220bbce5c119fb1d4d5c2f5588f3ea	meson	99466844dd8d4fcfb07578a76f5a9922	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7
+_md5_=fe94867ec7293843f2b2f2794faa4354
