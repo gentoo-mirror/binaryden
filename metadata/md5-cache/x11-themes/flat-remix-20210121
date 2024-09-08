@@ -9,5 +9,5 @@ LICENSE=GPL-3
 REQUIRED_USE=|| ( blue green red yellow )
 SLOT=0
 SRC_URI=https://github.com/daniruiz/flat-remix/archive/20210121.tar.gz -> flat-remix-20210121.tar.gz
-_eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3
+_eclasses_=xdg-utils	5465aed08f1dfc2a75f14cbea4272961
 _md5_=21a765947b4f1a49860437bf3613bf3f
