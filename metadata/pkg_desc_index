@@ -13,7 +13,7 @@ gnome-extra/cinnamon-translations 6.2.2: Translation data for Cinnamon
 gnome-extra/cjs 6.2.0: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 6.2.8: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 6.2.0: Nemo file-roller integration
-media-gfx/xviewer 3.4.6: A generic image viewer
+media-gfx/xviewer 3.4.7: A generic image viewer
 media-libs/elgato-streamdeck 0.9.6: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.15.0-r1: A command-line hex viewer
 sys-apps/xdg-desktop-portal-xapp 1.0.9: Backend implementation for xdg-desktop-portal using Cinnamon/MATE/Xfce
