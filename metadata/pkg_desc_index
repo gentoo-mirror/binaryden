@@ -10,7 +10,7 @@ gnome-extra/cinnamon-session 6.4.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 6.4.3: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 6.4.2: Translation data for Cinnamon
 gnome-extra/cjs 6.4.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/nemo 6.4.4: A file manager for Cinnamon, forked from Nautilus
+gnome-extra/nemo 6.4.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 6.4.0: Nemo file-roller integration
 media-gfx/xviewer 3.4.8: A generic image viewer
 media-libs/elgato-streamdeck 0.9.6: Python library to control the Elgato Stream Deck
