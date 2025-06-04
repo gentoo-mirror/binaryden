@@ -14,7 +14,6 @@ gnome-extra/cjs 6.4.0: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/nemo 6.4.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nemo-fileroller 6.4.0: Nemo file-roller integration
 media-gfx/xviewer 3.4.8: A generic image viewer
-media-libs/elgato-streamdeck 0.9.6: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.16.0: A command-line hex viewer
 x11-libs/xapp 2.8.8: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 2.0.9: A slick-looking LightDM greeter
