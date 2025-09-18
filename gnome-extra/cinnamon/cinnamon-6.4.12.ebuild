@@ -15,19 +15,19 @@ SRC_URI="https://github.com/linuxmint/cinnamon/archive/${PV}.tar.gz -> ${P}.tar.
 LICENSE="BSD GPL-2+ GPL-3+ GPL-3-with-openssl-exception LGPL-2+ LGPL-2.1 LGPL-2.1+ MIT"
 SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~loong ~riscv ~x86"
-IUSE="+eds +gstreamer gtk-doc internal-polkit +nls +networkmanager wayland"
+IUSE="+eds +gstreamer gtk-doc +nls +networkmanager wayland"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
 DEPEND="
 	${PYTHON_DEPS}
 	>=app-accessibility/at-spi2-core-2.46.0:2
-	app-crypt/gcr:0=[introspection]
+	>=app-crypt/gcr-3.7.5:0/1
 	>=dev-libs/glib-2.52.0:2[dbus]
 	>=dev-libs/gobject-introspection-1.29.15:=
-	dev-libs/libxml2:2
+	dev-libs/libxml2:2=
 	>=gnome-extra/cinnamon-desktop-6.4:0=
 	>=gnome-extra/cinnamon-menus-6.4
-	>=gnome-extra/cjs-6.4[cairo]
+	>=gnome-extra/cjs-6.4[cairo(+)]
 	sys-apps/dbus
 	>=sys-auth/polkit-0.100[introspection]
 	virtual/opengl
@@ -38,7 +38,7 @@ DEPEND="
 	x11-libs/libX11
 	>=x11-libs/libXfixes-5.0
 	x11-libs/pango[introspection]
-	>=x11-libs/xapp-2.8.4[introspection]
+	>=x11-libs/xapp-2.8.8[introspection]
 	>=x11-wm/muffin-6.4[introspection,wayland?]
 
 	eds? (
@@ -49,8 +49,8 @@ DEPEND="
 		media-libs/gstreamer:1.0
 	)
 	networkmanager? (
-		app-crypt/libsecret
-		net-misc/networkmanager[introspection]
+		>=app-crypt/libsecret-0.18
+		>=net-misc/networkmanager-1.10.4[introspection]
 	)
 "
 # caribou used by onscreen keyboard
@@ -98,9 +98,6 @@ RDEPEND="
 	x11-themes/adwaita-icon-theme
 	x11-themes/gnome-themes-standard
 
-	!internal-polkit? (
-		gnome-extra/polkit-gnome
-	)
 	nls? (
 		>=gnome-extra/cinnamon-translations-6.4
 	)
@@ -123,18 +120,12 @@ PATCHES=(
 	# https://github.com/linuxmint/Cinnamon/issues/3576
 	"${FILESDIR}/${PN}-3.6.6-wheel-sudo.patch"
 
-	# Prefer dev-lang/sassc over dev-python/libsass to allow
-	# ~riscv and ~loong support
-	"${FILESDIR}/${PN}-6.4.0-alternate-sassc.patch"
+	# Use sassc instead of pysassc
+	# https://github.com/linuxmint/cinnamon/pull/12588
+	"${FILESDIR}/${PN}-6.4.0-use-sassc.patch"
 )
 
 src_prepare() {
-	if ! use internal-polkit; then
-		# Add polkit agent to required components
-		# https://github.com/linuxmint/Cinnamon/issues/3579
-		sed -i "s/'REQUIRED', '/&polkit-cinnamon-authentication-agent-1;/" meson.build || die
-	fi
-
 	default
 
 	# shebang fixing craziness
@@ -166,13 +157,6 @@ src_install() {
 
 	# Doesn't exist by default
 	keepdir /etc/xdg/menus/applications-merged
-
-	if ! use internal-polkit; then
-		# Ensure authentication-agent is started, bug #523958
-		# https://github.com/linuxmint/Cinnamon/issues/3579
-		insinto /etc/xdg/autostart/
-		doins "${FILESDIR}"/polkit-cinnamon-authentication-agent-1.desktop
-	fi
 }
 
 pkg_postinst() {
