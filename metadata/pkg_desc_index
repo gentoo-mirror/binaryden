@@ -16,7 +16,7 @@ media-gfx/xviewer 3.4.12: A generic image viewer
 media-libs/elgato-streamdeck 0.9.6-r1: Python library to control the Elgato Stream Deck
 sys-apps/hexyl 0.16.0: A command-line hex viewer
 sys-apps/xdg-desktop-portal-xapp 1.1.2: Backend implementation for xdg-desktop-portal using Cinnamon/MATE/Xfce
-x11-libs/xapp 2.8.13: Cross-desktop libraries and common resources
+x11-libs/xapp 2.8.13 3.0.1: Cross-desktop libraries and common resources
 x11-misc/slick-greeter 2.2.2: A slick-looking LightDM greeter
 x11-themes/flat-remix 20210121: Pretty simple Linux icon theme inspired by material design
 x11-wm/muffin 6.4.1: Compositing window manager forked from Mutter for use with Cinnamon
